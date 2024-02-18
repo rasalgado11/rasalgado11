@@ -1,4 +1,4 @@
-Product entusiastic
+
 
 - 🔭 I’m currently working on my Master's Degree project
 - 🌱 I’m currently learning R, SQL, AI, Statistics and Python 
